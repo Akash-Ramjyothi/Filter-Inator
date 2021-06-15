@@ -12,7 +12,7 @@ Filter-Inator is a Face-Filter android application based on Augmented Reality. T
 https://gofile.io/d/7lXa2H
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/122033784-7db73000-cdee-11eb-9855-683bac3269d4.mp4
 
 ## 🏗 Built With:
 - Unity 2017.4.26f1 or later.
